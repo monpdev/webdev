@@ -1,0 +1,57 @@
+/*Dasmato_Art.css  -- pracetice using css to style art supply page. Part of Web Dev Track/Codecademy */
+
+
+h1{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  font-family: Helvetica;
+  font-size:100px;
+  font-weight: bold;
+  color:khaki;
+  text-align:center;
+  /*background-image*/
+  ;
+}
+
+body{
+  border:red;
+}
+
+p{
+    font-size:16px;
+    padding:0px;
+    margin:0px;
+}
+
+h4{
+    font-size:25px;
+    padding-top:50px;
+    margin: 0px;
+}
+.item{
+    font-family: Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    color:black;
+   
+}
+
+.price{
+    color:blue;
+}
+
+#brushes {
+    background-color:mediumspringgreen;
+    color:white
+}
+
+
+#frames {
+    background-color:lightcoral;
+    color:white
+}
+
+
+#paint {
+    background-color:skyblue;
+    color:white
+}
